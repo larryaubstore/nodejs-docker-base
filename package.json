@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-docker-base",
+  "description": "Application nodejs de démarrage",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.1.1",
+    "reload": "0.2.0"
+  }
+}
