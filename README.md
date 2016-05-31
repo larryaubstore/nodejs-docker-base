@@ -1,2 +1,2 @@
 # nodejs-docker-base
-Image de base docker pour nodejs
+Image de base docker pour projet nodejs
